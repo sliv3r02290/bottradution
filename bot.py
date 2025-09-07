@@ -26,4 +26,5 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-bot.run("MTQxMzY3NTkxMjEwNDUwOTQ3MA.GW2m8Z.ZEAMG_ZS69cwMrIuz36HAwwYtVqII9_2uu-4hg")  # Remplace par ton vrai TOKEN
+bot.run("MTQxMzY3NTkxMjEwNDUwOTQ3MA.GjvzVe.I5uX6S5nIPuI17306KYIsDQZI4EnvV6mvhwegE")  # Remplace par ton vrai TOKEN
+
